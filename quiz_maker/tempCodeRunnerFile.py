@@ -1,0 +1,1 @@
+input("Enter your Option : (1)Start Quiz\n(2)Exit\n")
